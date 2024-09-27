@@ -1,0 +1,114 @@
+[
+    {
+        "image": "roi_image2.png",
+        "label": "car",
+        "coordinates": {
+            "top_left": [
+                615,
+                410
+            ],
+            "bottom_right": [
+                722,
+                525
+            ]
+        }
+    },
+    {
+        "image": "roi_image3.png",
+        "label": "car",
+        "coordinates": {
+            "top_left": [
+                499,
+                582
+            ],
+            "bottom_right": [
+                642,
+                814
+            ]
+        }
+    },
+    {
+        "image": "roi_image4.png",
+        "label": "human",
+        "coordinates": {
+            "top_left": [
+                353,
+                340
+            ],
+            "bottom_right": [
+                384,
+                402
+            ]
+        }
+    },
+    {
+        "image": "roi_image5.png",
+        "label": "building",
+        "coordinates": {
+            "top_left": [
+                880,
+                30
+            ],
+            "bottom_right": [
+                1020,
+                304
+            ]
+        }
+    },
+    {
+        "image": "roi_image6.png",
+        "label": "car",
+        "coordinates": {
+            "top_left": [
+                400,
+                471
+            ],
+            "bottom_right": [
+                486,
+                580
+            ]
+        }
+    },
+    {
+        "image": "roi_image7.png",
+        "label": "car",
+        "coordinates": {
+            "top_left": [
+                467,
+                378
+            ],
+            "bottom_right": [
+                533,
+                453
+            ]
+        }
+    },
+    {
+        "image": "roi_image8.png",
+        "label": "car",
+        "coordinates": {
+            "top_left": [
+                763,
+                437
+            ],
+            "bottom_right": [
+                921,
+                622
+            ]
+        }
+    },
+    {
+        "image": "roi_image9.png",
+        "label": "human",
+        "coordinates": {
+            "top_left": [
+                669,
+                305
+            ],
+            "bottom_right": [
+                753,
+                369
+            ]
+        }
+    }
+]
